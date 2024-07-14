@@ -1,0 +1,25 @@
+body{
+    background-color: purple;
+    text-align: center;
+}
+h1{
+    color: white;
+    font-size: 5vw;
+
+}
+div{
+    margin-left: 2vw;
+}
+
+button{
+    color: purple;
+    background-color: white;
+    margin-left: 11vw;
+    padding: 0.6vw;
+}
+h2{
+    color: white;
+}
+p{
+    color: white;
+}
